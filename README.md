@@ -42,4 +42,10 @@
 - Error handling
 - useCallback
 
+### tasks-manager
+- Custom Hooks (HTTP)
+
+###
+- Routing
+
 ### meetups: summary project 
