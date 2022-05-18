@@ -1,5 +1,10 @@
-# This project include samples of
+# This project include React 17.x code examples with Router 5 and 6
+### In each folder you will find a standalone node project:
+1. `cd` into the desired example folder and run `npm install`
+2. Run `npm start`, the browser will be automatically opened with the running webserver address `localhost:3000`
+3. In some examples there is a dummy backend interacting with the frontend - in case a `dummy_backend` folder exists repeat steps 1 and 2 for that folder
 
+## Features included
 ### course-goals
 - Standard styles:
   - Inline HTML injection
